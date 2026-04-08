@@ -2,7 +2,7 @@
 
 > **Design Assessment Submission** — UI/UX Designer + Frontend Developer role
 
-**Live Demo:** [Vercel link — add after deployment]  
+**Live Demo:** https://aireadyschool-navy.vercel.app/  
 **Stack:** Next.js 14 (App Router) · JavaScript · Tailwind CSS · Lucide React
 
 ---
